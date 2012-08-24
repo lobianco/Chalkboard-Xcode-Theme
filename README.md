@@ -12,6 +12,11 @@ Installation
 <li>Open <code>XCode</code> > <code>Preferences</code> > <code>Fonts & Colors</code> and select Chalkboard</li>
 </ol>
 
+Preview
+=======
+
+<img src="screenshot.png" alt="Chalkboard Xcode Theme - Preview" title="Chalkboard Xcode Theme - Preview" />
+
 Direct Download
 ===============
 
