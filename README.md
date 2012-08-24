@@ -1,4 +1,4 @@
-Chalkboard-Xcode-Theme
+Chalkboard Xcode Theme
 ======================
 
 A darkened version of the default Xcode theme - perfect for if you've become accustomed to the default syntax highlighting but need something a little easier on the eyes. Compatible with Xcode 4+.
