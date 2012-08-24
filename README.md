@@ -15,7 +15,7 @@ Installation
 Preview
 =======
 
-<img src="screenshot.png" alt="Chalkboard Xcode Theme - Preview" title="Chalkboard Xcode Theme - Preview" />
+<img src="http://lobian.co/code/xcode/screenshot.png" alt="Chalkboard Xcode Theme - Preview" title="Chalkboard Xcode Theme - Preview" />
 
 Direct Download
 ===============
