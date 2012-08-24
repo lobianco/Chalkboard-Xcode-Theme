@@ -11,3 +11,8 @@ Installation
 <li>Place theme file in: <code>~/Library/Developer/Xcode/UserData/FontAndColorThemes/</code> (if the last folder doesn't exist, create it)</li>
 <li>Open <code>XCode</code> > <code>Preferences</code> > <code>Fonts & Colors</code> and select Chalkboard</li>
 </ol>
+
+Direct Download
+===============
+
+<a href="http://lobian.co/code/xcode/ChalkboardTheme.tar.gz" target="_blank" alt="Chalkboard Xcode Theme - Anthony Lobianco" title="Chalkboard Xcode Theme - Anthony Lobianco">http://lobian.co/code/xcode/ChalkboardTheme.tar.gz</a>
