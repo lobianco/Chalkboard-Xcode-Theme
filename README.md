@@ -1,7 +1,7 @@
 Chalkboard - An Xcode Theme
 ======================
 
-A darkened version of the default Xcode theme - perfect for if you've become accustomed to the default syntax highlighting but need something a little easier on the eyes. It is, simply, the best Xcode theme available. Compatible with Xcode 4+. 
+A darkened version of the default Xcode theme - it uses similar colors to the default syntax highlighting but with a dark background, making it much easier on the eyes. Compatible with Xcode 4+. 
 
 Installation
 ============
