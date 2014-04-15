@@ -6,6 +6,10 @@ A darkened version of the default Xcode theme - it uses similar colors to the de
 Installation
 ============
 
+1. Look for `Chalkboard` in [Alcatraz](http://alcatraz.io)
+
+or
+
 <ol>
 <li>Close <code>Xcode</code</li>
 <li>Place theme file in: <code>~/Library/Developer/Xcode/UserData/FontAndColorThemes/</code> (if the last folder doesn't exist, create it)</li>
@@ -15,9 +19,4 @@ Installation
 Preview
 =======
 
-<img src="http://lobian.co/code/xcode/screenshot.png" alt="Chalkboard Xcode Theme - Preview" title="Chalkboard Xcode Theme - Preview" />
-
-Direct Download
-===============
-
-<a href="http://lobian.co/code/xcode/ChalkboardTheme.tar.gz" target="_blank" alt="Chalkboard Xcode Theme - Anthony Lobianco" title="Chalkboard Xcode Theme - Anthony Lobianco">http://lobian.co/code/xcode/ChalkboardTheme.tar.gz</a>
+<img src="https://raw.githubusercontent.com/alobi/Chalkboard-Xcode-Theme/master/screenshot.png" alt="Chalkboard Xcode Theme - Preview" title="Chalkboard Xcode Theme - Preview" />
